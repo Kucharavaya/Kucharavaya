@@ -13,7 +13,7 @@
 - API Testing (Postman)
 - Web testing (DevTools)
 - Составление баг-репортов (JIRA)
-- Составление тест-кейсов (TestRail)
+- Составление тест-кейсов (TestRail, Excel/Google Docs)
 - Основные техники тест-дизайна (классы эквивалентности, граничные значения)
 - Основные техники тест-анализа (State Transition Testing, Decision Table, pairwise testing)
 - MS SQL (SELECT, WHERE, HAVING, ORDER BY, JOIN)
