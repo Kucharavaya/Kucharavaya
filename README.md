@@ -11,16 +11,14 @@
 
 ## :hammer:Навыки
 - API Testing (Postman)
-- Web testing (DevTools)
+- Web Testing (DevTools)
 - Составление баг-репортов (JIRA)
-- Составление тест-кейсов (TestRail, Excel/Google Docs)
+- Составление тест-кейсов (Test IT, Excel/Google Sheets)
 - Основные техники тест-дизайна (классы эквивалентности, граничные значения)
 - Основные техники тест-анализа (State Transition Testing, Decision Table, pairwise testing)
 - MS SQL (SELECT, WHERE, HAVING, ORDER BY, JOIN)
 - HTML / CSS
 - Git
-- Docker
-- Bash
 
 ### Иностранные языки
 - Русский: родной
@@ -34,10 +32,6 @@
 *Специальность: Менеджер-экономист | 2014*
 
 ## :file_folder:Портфолио
-Учебные проекты:
- - [Тест-кейсы](ссылка)
- - [Баг-репорты](ссылка)
- - [SQL](ссылка)
- - [Postman](ссылка)
- - ~~добавить [issue -> good first issue]~~
+
+ Добро пожаловать в моё портфолио, где я демонстрирую свои [проекты](https://github.com/Kucharavaya/portfolio/blob/main/Portfolio.md)
 
